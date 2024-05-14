@@ -1,2 +1,2 @@
 # Kolkata_Data_PMC_paper_TrafficCountEstimationUsingCrowdSourcedTrajectory
-The repository includes detailed data descriptions and the codes utilised in this article titled  Traffic count estimation using crowd-sourced trajectory data in the absence of dedicated infrastructure, published in Pervasive and Mobile Computing.
+The repository includes the raw trajectory data, interpreted camera data with signal timing information, traffic counts and queue lengths with descriptions those are described and validated in the article titled, "Traffic count estimation using crowd-sourced trajectory data in the absence of dedicated infrastructure", published in Pervasive and Mobile Computing, doi: https://doi.org/10.1016/j.pmcj.2024.101935
