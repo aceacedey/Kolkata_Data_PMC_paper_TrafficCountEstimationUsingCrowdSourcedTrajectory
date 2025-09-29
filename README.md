@@ -4,8 +4,7 @@ This release contains the raw data that are used in the paper titled [Traffic co
 The raw trajectory data interpreted camera data with signal timing information, traffic counts and queue lengths data were collected at a single-lane signalised road intersection at the Webel-More in Kolkata. Validation datasets are manually collected using a video camera installed at the observer's location. A ground-truth dataset of vehicle counts, departure headways, and signal timing is manually constructed using time-stamped video camera footage and visual inspection. A smartphone-equipped vehicle with the GPSlogger Android application is used to collect the set of vehicle trajectory data.
 
 
-
-All the .txt files contain raw GNSS data with timestamps recorded in GMT. Hence, all the timestamps in .txt files need to be adjusted by adding 5 hours and 30 minutes (GMT +5:30), which is the Kolkata, India, time zone.
+P.S. - All the .txt files contain raw GNSS data with timestamps recorded in GMT. Hence, all the timestamps in .txt files need to be adjusted by adding 5 hours and 30 minutes (GMT +5:30), which is the Kolkata, India, time zone.
 
 The timestamps in the .csv files (files that contain link counts and leader-follower headway) are local time as they are recorded in Kolkata.
 
